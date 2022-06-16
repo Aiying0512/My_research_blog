@@ -2,7 +2,6 @@ theme: minima
 title: My Research Blog in Mental Health Data Science
 author: Aiying Zhang
 email: zhangaiying0512@gmail.com
-url: https://aiying0512.github.io
 description: > # this means to ignore newlines until "baseurl:"
   I am a research scientist in mental health data science. I just want to share stuff I've learned in this area.  
   
@@ -12,3 +11,5 @@ twitter_username: aiying_zhang # DO NOT include the @ character, or else the bui
 github_username:  Aiying0512 # DO NOT include the @ character, or else the build will fail!
 
 show_excerpts: true # set to false to remove excerpts on the homepage
+
+url-pretty: "MyWebsite.com"
