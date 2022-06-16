@@ -4,7 +4,10 @@ date: 2022-02-03
 ---
 
 
-In biomedical reseach, especially in brain imaging, we often get a lot of questions towards these 3R terms (reproducibility, replicability, robustness). It always makes me confused and wonder what are the differences among them. Fortranetely, I attended a talk by Prof. Russel Poldrack and got everything clarified in one table.
+In biomedical reseach, especially in brain imaging, we often get a lot of questions towards these 3R terms (reproducibility, replicability, robustness). It always makes me confused and wonder what are the differences among them. Fortranetely, I attended a talk by Prof. Russel Poldrack and got everything clarified in one table. <br>  
+
+
+
 
 <table class=MsoTableGrid border=1 cellspacing=0 cellpadding=0
  style='margin-left:49.5pt;border-collapse:collapse;border:none;mso-border-alt:
