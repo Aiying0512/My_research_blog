@@ -23,6 +23,7 @@ Demo
 ```
 data("ToothGrowth")
 compare_means(len ~ supp, data = ToothGrowth)
+# Boxplot
 p <- ggboxplot(ToothGrowth, x = "supp", y = "len",
                color = "supp", palette = "jco",
                add = "jitter")
@@ -37,3 +38,4 @@ ggboxplot(ToothGrowth, x = "dose", y = "len",
   stat_compare_means(comparisons = my_comparisons, label.y = c(29, 35, 40))+ #label.y specifies the precise y location of bars
   stat_compare_means(label.y = 45)
 ```
+
