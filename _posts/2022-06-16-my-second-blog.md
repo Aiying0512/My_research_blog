@@ -1,11 +1,9 @@
 ---
-title: "Second blog"
+title: "How to add p-values on a Boxplot using R"
 date: 2022-06-16
 ---
 
 
-
-## How to add p-values on a Boxplot using R
 
 I learned from these two posts:
 
