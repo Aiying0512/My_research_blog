@@ -14,7 +14,7 @@ http://www.sthda.com/english/articles/24-ggpubr-publication-ready-plots/76-add-p
 https://cran.r-project.org/web/packages/ggprism/vignettes/pvalues.html
 
 
-### Requried packages
+#### Requried packages
 ```
 library(ggplot2)
 library(ggpubr)
@@ -38,4 +38,24 @@ ggboxplot(ToothGrowth, x = "dose", y = "len",
   stat_compare_means(comparisons = my_comparisons, label.y = c(29, 35, 40))+ #label.y specifies the precise y location of bars
   stat_compare_means(label.y = 45)
 ```
+
+### Add calculated p-values
+In some cases, the testing method one needs is not provided in the R package. One can first calculate the p-value and then added it to the plot. 
+
+#### Required packages
+```
+library(ggplot2)
+library(ggprism)
+library(patchwork)
+library(magrittr)
+
+```
+
+Need to do: Form the data frame with p-values in required format 
+
+Use the same data as a Demo
+
+
+
+
 
