@@ -1,6 +1,9 @@
 
+---
+title: "Generate structural connectome (SC) from DWI using MRtrix3"
+date: 2022-12-06
+---
 
-## Generate structural connectome (SC) from DWI using MRtrix3
 
 I learned from these two sources:
 
