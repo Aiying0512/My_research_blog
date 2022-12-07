@@ -37,7 +37,7 @@ ggboxplot(ToothGrowth, x = "dose", y = "len",
   stat_compare_means(label.y = 45)
 ```
 
-![This is an image](/../image/bxplotwp.png)
+![This is an image](../image/bxplotwp.png)
 
 
 
