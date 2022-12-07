@@ -37,6 +37,10 @@ ggboxplot(ToothGrowth, x = "dose", y = "len",
   stat_compare_means(label.y = 45)
 ```
 
+![This is an image](/../image/bxplotwp.png)
+
+
+
 ### Add calculated p-values
 In some cases, the testing method one needs is not provided in the R package. One can first calculate the p-value and then added it to the plot. 
 
