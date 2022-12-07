@@ -3,7 +3,7 @@ title: "How to add p-values on a Boxplot using R"
 date: 2022-06-16
 ---
 
-
+Sometimes, just a boxplot cannot illustrate the significant difference between groups. If we could add a p-value on the plot, then things will become more clear.
 
 I learned from these two posts:
 
