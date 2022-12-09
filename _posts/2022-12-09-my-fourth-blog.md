@@ -19,3 +19,7 @@ Specific Populations:
 * [NCANDA](http://www.ncanda.org/index.php)
 * [ADHD200](http://preprocessed-connectomes-project.org/adhd200/)
 * [ABIDE](https://fcon_1000.projects.nitrc.org/indi/abide/)
+
+
+## ABCD: Adolescent Brain Cognitive Development Study
+The ABCD Study is the largest long-term study of brain development and child health in the United States. The ongoing ABCD Research Consortium has 21 research sites across the country. It will collect longitudinal data in 11,880 children starting at 9–10 years with longitudinal scans every two years into early adulthood, while collecting structural (T1, T2, and diffusion scans) and functional (rest, monetary incentive delay task, stop signal task and the emotional N-back task) MRI, with an emphasis on understanding the precursors to addictive behavior.
