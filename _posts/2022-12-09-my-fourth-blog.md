@@ -25,12 +25,13 @@ Specific Populations:
 
 The ABCD Study is the largest long-term study of brain development and child health in the United States. The ongoing ABCD Research Consortium has 21 research sites across the country. It will collect longitudinal data in 11,880 children starting at 9–10 years and follow up 10 years, with longitudinal scans every two years. The collected neuroimaging includes structural (T1, T2, and diffusion scans) and functional (rest, monetary incentive delay task, stop signal task and the emotional N-back task) MRI, with an emphasis on understanding the precursors to addictive behavior.
 
-## ABIDE: Autism Brain Imaging Data Exchange
+## ABIDE: Autism Brain Imaging Data Exchange Initiative
 
-
+The ABIDE initiative has aggregated functional and structural brain imaging data collected from laboratories around the world to accelerate our understanding of the neural bases of autism. It now includes two large-scale collections: ABIDE I and ABIDE II, each has over 1,000 subjects (age range: 5~64).
 
 ## ADHD200:
 
+A consortium of the International Neuroimaging Datasharing Initiative (INDI), the ADHD-200 Sample is a collaboration of 8 international imaging sites that have aggregated and are openly sharing neuroimaging data from 362 children and adolescents diagnosed with ADHD and 585 typically developing controls (age: 7-21 years). These 947 datasets are composed of structural and resting state functional MRI data along with phenotypic information.
 
 
 
@@ -45,6 +46,11 @@ The HBN Biobank intends to provide the a large-scale dataset of 10,000 participa
 ## IMAGEN
 
 The IMAGEN study, a European based consortium, collected longitudinal structural and functional MRI data, genetics and behavioral assessments from 2000 adolescents at ages 14, 16, 19 and 22 years.
+
+## NCANDA: National Consortium on Alcohol and NeuroDevelopment in Adolescence study
+
+The NCANDA study is examining risk factors for drinking within an adolescent population (N = 808; 12–21 years) and includes psychosocial measures in addition to structural and functional MRI measures.
+
 
 ## PING: Pediatric Imaging, Neurocognition and Genetics Study
 
