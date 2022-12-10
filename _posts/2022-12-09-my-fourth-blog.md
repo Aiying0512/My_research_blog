@@ -3,6 +3,9 @@ title: "A Summarization on Existing Neuroimaging Data for Child and Adolescent D
 date: 2022-12-09
 ---
 
+There are multiple large-scale neuroimaging studies for child and adolescent development, which can serve various research aims (e.g., multi-modal fusion, imaging genetics, comorbidity, etc.) 
+
+
 ## Summary List
 Healthy Populations:
 * [HCP-D](https://www.humanconnectome.org/study/hcp-lifespan-development)
