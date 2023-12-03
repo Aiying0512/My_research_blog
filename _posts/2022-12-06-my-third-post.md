@@ -1,5 +1,5 @@
 ---
-title: "Generate structural connectome (SC) from DWI using MRtrix3"
+title: "DWI Preprocessing using MRtrix3"
 date: 2022-12-06
 ---
 
