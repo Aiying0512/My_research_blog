@@ -5,8 +5,6 @@ email: zhangaiying0512@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   I am an Assistant Professor in the School of Data Science at University of Virginia. 
   
-  I use this blog to share useful stuff I've learned for mental health data science.  
-  
 
 # social links
 twitter_username: aiying_zhang # DO NOT include the @ character, or else the build will fail!
