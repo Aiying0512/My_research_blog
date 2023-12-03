@@ -27,7 +27,22 @@ Required Documents: 3 types of files `.nii`, `.bval`, `.bvec`.
 * `.bval` indicates the b value of each volume
 * `.bvec` indicates the b vector
 
-Usually, we need to specify the predominant phase-encoding direction (e.g., Anterior to Posterior, or AP) and the reverse phase-encoding direction (e.g., PA) and extract the two sets of images.
+Usually, we need to specify the predominant phase-encoding direction (e.g., Anterior to Posterior, or AP) and the reverse phase-encoding direction (e.g., PA) and extract the two sets of images. 
+
+From Preprocessing to fiber tractography streamline, we need to go through the following steps:
+* Denoising:
+  * MP-PCA denoising
+  * A reverse phase encoding
+  * Optional: Correction of susceptibility distortion (e.g., Gibbs’ ringing artifacts),
+  * Eddy current-induced distortions and motion,
+  * Non-uniformity bias field correction.
+
+Then DTI scalars such as the Fractional Anisotropy (FA) and Mean Diffusivity (MD) can be computed. 
+
+* Basis function for each tissue type
+
+
+
 
 
 
