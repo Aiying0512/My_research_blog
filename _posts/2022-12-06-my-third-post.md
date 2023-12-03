@@ -40,6 +40,22 @@ From Preprocessing to fiber tractography streamline, we need to go through the f
 Then DTI scalars such as the Fractional Anisotropy (FA) and Mean Diffusivity (MD) can be computed. 
 
 * Basis function for each tissue type
+  * The Dhollander algorithm is used to estimate the response functions of cerebrospinal fluid (CSF), gray, and white matter.
+  * These are then used to estimate the fiber orientation distribution (FOD) by spherical deconvolution.
+  * Intensity normalization is applied to each tissue FOD to enable comparison between subjects.
+
+* Create a GM/WM boundary for seed analysis
+  * A non-linear transformation is computed between the normalized white matter FOD and s-MRI (T1) aligned to the b0 image.
+  * Then, a five-tissue-type (5TT) image segmentation is generated and registered to the DWI space, and a gray matter white matter interface mask is calculated. 
+
+* Run the streamline analysis
+  * First, a tractography with 10 million streamlines is generated using the iFOD2 algorithm
+  * Next, spherical deconvolution informed filtering of tractograms [SIFT2] is applied to reconstruct whole brain streamlines weighted by cross-sectional multipliers. 
+
+
+
+
+
 
 
 
